@@ -1,7 +1,7 @@
 
 # Calculador AC FullStack
 
-AC de desenvolvimento de uma simples Calculadora Orientada a Obejtos criada em Jquery.
+AC de desenvolvimento de uma simples Calculadora Orientada a Objetos criada em Jquery.
 
 
 
